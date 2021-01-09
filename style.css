@@ -1,20 +1,100 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 h1{
-    font: 50px;
+    font: 650px;
+    font-size: 300%;
+    font-weight: bold;
+
 }
-.name-highlight{
-    color: blue;
+h3{
+    font-size: 250%;
+    font: 600px;
 }
-.hilf-width{
-    width: 40%;
-    height: 650px;
+.orange-highlight{
+    color: orangered;
+    
+}
+.half-width{
+    width: 30%;
     float: left;
-    margin-top: 2% ;
+    height: 500px;
     margin-left: 5%;
-    padding-left: 2%;
+    margin-right: 5%;
+    padding-left: 5%;
 }
-.hilf-width img{
-    width: 100%;
+.half-width img{
+    width: 140%;
 }
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: blue;;
+    border-radius: 5px;
+    color: rgb(213, 213, 223);
+    font-weight: 700; 
+}
+.h4{
+    font-size: 300%;
+    font: 600px;
+}
+.three-width{
+    width: 25%;
+    float: left;
+    height: 500px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 2%;  
+}
+.working-aria{
+    background-image: url(images/midel-baner.png)
+}
+h2{
+text-align: center;
+
+}
+h2{
+font-weight: bold;
+font-size: 200%;
+}
+.newbox-aria{
+box-shadow: 10px 10px 50px gray;
+border-radius: 10px;
+height: 50%;
+width: 25%;
+}
+.last-aria{
+    text-transform: uppercase;
+        justify-content: center;
+        height: 250px;
+        margin: 5%;
+        padding: 5%;
+        position: relative;
+        text-align: center;
+        color: rgb(71, 6, 6);
+    
+        
+      }
+       .last-button{
+        text-decoration: none;
+        background-color: rgb(255, 0, 242);;
+        border-radius: 5px;
+        color: rgb(14, 14, 17);
+        font-weight: 500;
+        height: 5px;
+        width: 40px;
+        padding: 5px;
+     }
+
+     .work{
+
+        font-size: 30px;
+        font-weight: bold;
+        font-display: inline;
+    
+    
